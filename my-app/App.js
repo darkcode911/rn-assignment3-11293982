@@ -28,10 +28,10 @@ const App = () => {
   ];
 
   const ongoingTasks = [
-    'Mobile App Development', 'Web Development', 'Push Ups', 'Python Bootcamp',
-    'DEV Conference', 'Semester Project Workshop', 'ETH Hackathon', 'Saturday To Do List',
-    'Paul Ammah Lecture', 'Meditation', 'React Native Studies', 'Software Engineering Meetup',
-    'Sunday Planning', 'Telecel Bounty Hunt', 'Smart Contract Development'
+    'Web Development task', 'Mobile app Development task', 'Code boot task', 'Python task',
+    'DEV task', 'Semester Project Workshop', 'Cyber task', 'Saturn maths task',
+    'Dr Ammah Lecture', 'Orm task', 'React Native Studies', 'Software Engineering Task',
+    'Algorithm Task', ' code Hunt', 'Smart Code Development'
   ];
 
   return (
